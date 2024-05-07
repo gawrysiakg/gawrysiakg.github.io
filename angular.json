@@ -1,0 +1,26 @@
+{
+  "projects": {
+    "bouncy-simulator": {
+      "architect": {
+        "build": {
+          "configurations": {
+            "production": {
+              "baseHref": "/bouncy-simulator/"
+            }
+          }
+        }
+      }
+    },
+    "game-of-life": {
+      "architect": {
+        "build": {
+          "configurations": {
+            "production": {
+              "baseHref": "/game-of-life/"
+            }
+          }
+        }
+      }
+    }
+  }
+}
